@@ -241,4 +241,4 @@ This repository serves as the official landing page for LMMS. The software is di
 **Get the most recent version of LMMS today!**
 
 ---
-**Last updated:** 2026-10-17 11:24:13 UTC
+**Last updated:** 2026-10-17 15:02:51 UTC
